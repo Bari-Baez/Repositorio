@@ -1,0 +1,14 @@
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\bin\Debug\net8.0\DatosYvariables.exe
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\bin\Debug\net8.0\DatosYvariables.deps.json
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\bin\Debug\net8.0\DatosYvariables.runtimeconfig.json
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\bin\Debug\net8.0\DatosYvariables.dll
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\bin\Debug\net8.0\DatosYvariables.pdb
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\DatosYvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\DatosYvariables.AssemblyInfoInputs.cache
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\DatosYvariables.AssemblyInfo.cs
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\DatosYvariables.csproj.CoreCompileInputs.cache
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\DatosYvariables.dll
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\refint\DatosYvariables.dll
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\DatosYvariables.pdb
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\DatosYvariables.genruntimeconfig.cache
+C:\Users\baril\source\repos\DatosYvariables\DatosYvariables\obj\Debug\net8.0\ref\DatosYvariables.dll
