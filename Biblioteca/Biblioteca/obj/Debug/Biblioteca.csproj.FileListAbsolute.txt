@@ -1,0 +1,15 @@
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\SistemaGestionBiblioteca.Form1.resources
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\bin\Debug\bari.mdf
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\bin\Debug\bari_log.ldf
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FormLibros.resources
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\TuNombreDeEspacio.FormReservas.resources
+C:\Users\baril\source\repos\Biblioteca\Biblioteca\obj\Debug\TuNombreDeEspacio.FormConsultas.resources
