@@ -1,0 +1,14 @@
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\bin\Debug\net8.0\EnumeracionYswitch.exe
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\bin\Debug\net8.0\EnumeracionYswitch.deps.json
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\bin\Debug\net8.0\EnumeracionYswitch.runtimeconfig.json
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\bin\Debug\net8.0\EnumeracionYswitch.dll
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\bin\Debug\net8.0\EnumeracionYswitch.pdb
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\EnumeracionYswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\EnumeracionYswitch.AssemblyInfoInputs.cache
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\EnumeracionYswitch.AssemblyInfo.cs
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\EnumeracionYswitch.csproj.CoreCompileInputs.cache
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\EnumeracionYswitch.dll
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\refint\EnumeracionYswitch.dll
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\EnumeracionYswitch.pdb
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\EnumeracionYswitch.genruntimeconfig.cache
+C:\Users\baril\source\repos\EnumeracionYswitch\EnumeracionYswitch\obj\Debug\net8.0\ref\EnumeracionYswitch.dll
