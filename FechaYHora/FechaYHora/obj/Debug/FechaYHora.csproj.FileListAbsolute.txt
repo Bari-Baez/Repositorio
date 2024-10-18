@@ -1,0 +1,10 @@
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\bin\Debug\FechaYHora.exe.config
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\bin\Debug\FechaYHora.exe
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\bin\Debug\FechaYHora.pdb
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\obj\Debug\FechaYHora.csproj.AssemblyReference.cache
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\obj\Debug\FechaYHora.Form1.resources
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\obj\Debug\FechaYHora.Properties.Resources.resources
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\obj\Debug\FechaYHora.csproj.GenerateResource.cache
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\obj\Debug\FechaYHora.csproj.CoreCompileInputs.cache
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\obj\Debug\FechaYHora.exe
+C:\Users\baril\source\repos\FechaYHora\FechaYHora\obj\Debug\FechaYHora.pdb
